@@ -20,7 +20,7 @@ print("Activity completed!.")
 print("Towards wnich direction should i go (up, down, left or right)?")
 dir = input()
 
-if dir == 'up':
+if dir == 'up' or dir == 'Up':
     print("I am moving in an upward direction!")
 elif dir == 'down':
     print("I am moving in an downward direction!")
