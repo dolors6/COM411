@@ -16,3 +16,8 @@ print("\' Displays a single quote")
 # if you look at the code above you will see how to use the backslash in your text, it enables you to do tasks which seem impossible within a print statement
 
 print("\t I am Programming!")
+
+print("##########")
+print("#        #")
+print("#        #")
+print("##########")
